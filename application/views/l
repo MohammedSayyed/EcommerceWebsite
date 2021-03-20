@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="version.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href=".\fontawesome-free-5.12.0-web\css\all.css">
+
+
+</head>
+
+<ul class="list-group container">
+    <li class="list-group-item"><a href="#">Your Account</a></li>
+    <li class="list-group-item"><a href="#">Your Orders</a></li>
+    <li class="list-group-item"><a href="#">Your Wish List</a></li>
+    <li class="list-group-item"><a href="#">Your Recomendations</a></li>
+    <br>
+    <li class="list-group-item"><a href="#">Log Out</a></li>
+</ul>
+
+<body>
+
+</body>
+
+</html>
+  <header>
+        <b/button>
+            <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-warning">
+                <h4 class="navbar-brand" href="#"><b>AZAM DEAL</b></h4>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <!--  <ul class="navbar-nav mr-auto">-->
+
+
+
+                    <div class="dropdown-myn ml-2">
+                        <button class="btn btn-outline-dark dropbtn-myn">Men
+                            <!-- <i class="fa fa-caret-down"></i>-->
+                        </button>
+                        <div class="dropdown-content-myn">
+
+                            <div class="row-myn">
+                                <div class="column-myn">
+                                    <h6><b>Topwear</b></h6>
+                                    <a href="#">T Shirts</a>
+                                    <a href="#">Casual shirts</a>
+                                    <a href="#">Normal shirts</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Bottomwear</b></h6>
+                                    <a href="#">Jeans</a>
+                                    <a href="#">Casual Trousers</a>
+                                    <a href="#">Formal Trousers</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Footwear</b></h6>
+                                    <a href="#">Sneakers</a>
+                                    <a href="#">Formal Shoes</a>
+                                    <a href="#">Sport Shoes</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dropdown-myn ml-2">
+                        <button class=" btn btn-outline-dark dropbtn-myn">Women
+                            <!-- <i class="fa fa-caret-down"></i>-->
+                        </button>
+                        <div class="dropdown-content-myn">
+
+                            <div class="row-myn">
+                                <div class="column-myn">
+                                    <h6><b>Footwear</b></h6>
+                                    <a href="#">Floats</a>
+                                    <a href="#">Casual wear</a>
+                                    <a href="#">Sports wear</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Western wear</b> </h6>
+                                    <a href="#">Dresses & Jumpsuits</a>
+                                    <a href="#">Tops,T-shirts & shirts</a>
+                                    <a href="#">Jeans & Jeggings</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Indian & Fusion wear</b></h6>
+                                    <a href="#">kurtis and suits</a>
+                                    <a href="#">Ethinic Dresses</a>
+                                    <a href="#">Skirts & Plazos</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dropdown-myn ml-2">
+                        <button class="btn btn-outline-dark dropbtn-myn">Kids
+                            <!-- <i class="fa fa-caret-down"></i>-->
+                        </button>
+                        <div class="dropdown-content-myn">
+
+                            <div class="row-myn">
+                                <div class="column-myn">
+                                    <h6><b>Girls Clothing</b></h6>
+                                    <a href="#">Dresses</a>
+                                    <a href="#">Jeans</a>
+                                    <a href="#">Tops</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Footwear</b></h6>
+                                    <a href="#">School Shoes</a>
+                                    <a href="#">Casual Shoes</a>
+                                    <a href="#">Sports Shoes</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Boys Clothing</b></h6>
+                                    <a href="#">Casual Shirts</a>
+                                    <a href="#">T-Shirts</a>
+                                    <a href="#">Jeans</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dropdown-myn ml-2">
+                        <button class="btn btn-outline-dark dropbtn-myn">Home & Living
+                            <!-- <i class="fa fa-caret-down"></i>-->
+                        </button>
+                        <div class="dropdown-content-myn">
+
+                            <div class="row-myn">
+                                <div class="column-myn">
+                                    <h6><b>Home Decore</b></h6>
+                                    <a href="#">Clocks</a>
+                                    <a href="#">Mirrors</a>
+                                    <a href="#">Wall Decor </a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Bath</b></h6>
+                                    <a href="#">Bath Towels</a>
+                                    <a href="#">Hand & Face Towels</a>
+                                    <a href="#">Beach Towels</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Bed Linen & Furninshing</b></h6>
+                                    <a href="#">Bedsheets</a>
+                                    <a href="#">Blankets</a>
+                                    <a href="#">Pillows</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="dropdown-myn ml-2">
+                        <button class="btn btn-outline-dark dropbtn-myn">Discover
+                            <!-- <i class="fa fa-caret-down"></i>-->
+                        </button>
+                        <div class="dropdown-content-myn">
+
+                            <div class="row-myn">
+                                <div class="column-myn">
+                                    <h6><b>Brands For Him</b></h6>
+                                    <a href="#">H&M</a>
+                                    <a href="#">Lee Cooper</a>
+                                    <a href="#">Levis</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Brands For Her</b></h6>
+                                    <a href="#">Forever21</a>
+                                    <a href="#">Marks & Spencers</a>
+                                    <a href="#">H&M</a>
+                                </div>
+                                <div class="column-myn">
+                                    <h6><b>Trends</b></h6>
+                                    <a href="#">Street</a>
+                                    <a href="#">Indi</a>
+                                    <a href="#">Deniums</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <form class="form-inline my-2 mr-lg-2">
+                        <input class="form-control mr-lg-2" id="bgsearch" type="search" placeholder="Search your product here" aria-label="Search">
+                        <button class="btn btn-outline-dark my-2 my-sm-0 " type="submit">Search</button>
+                    </form> -->
+                    <form class="form-inline my-2 mr-lg-2" action="<?php echo base_url();?>index.php/My_controller/search" method="POST">
+                        <input class="form-control mr-lg-2" id="bgsearch" type="search" placeholder="Search your product here" aria-label="Search" name="keyword">
+                        <button class="btn btn-outline-dark my-2 my-sm-0 " type="submit">Search</button>
+                    </form>
+                    <div class="dropdown">
+                        <span>&nbsp;&nbsp;<i class="fas fa-user ml-4 "></i><a><h6 class="ml-4 ">Login</h6></a></span>
+                        <div class="dropdown-content ">
+                            <table>
+                                <tr>
+                                    <th colspan="2">WELCOME<br>
+                                    <?php 
+                                        if($this->session->has_userdata('first_name'))
+                                            echo strtoupper($this->session->first_name);        
+
+                                    ?>
+                                    </th>
+                                    <br>
+                                </tr>  
+                               
+                                <tr>
+                                    <td colspan="2">
+                                        <hr>
+                                    </td>
+                                </tr>
+                                <tr>
+                                <td>
+                                    <?php 
+                                        if($this->session->has_userdata('first_name')):?>
+                                             <ul>
+                                                <li ><a href="#">Your Account</a></li>
+                                                <li ><a href="#">Your Orders</a></li>
+                                                <li ><a href="#">Your Wish List</a></li>
+                                                <li ><a href="#">Your Recomendations</a></li>
+                                            </ul>
+                                            <hr>
+                                            <a href="<?php echo base_url();?>index.php/My_controller/logout"><button class="btn btn-warning">logout </button></a>
+                                        <?php else: ?>
+                                            
+                                                <td><a href='<?php echo base_url();?>index.php/My_controller/login'><button class='btn btn-outline-success btn-sm' formaction=''>LogIn</button></a></td>
+                                                <td><button class="btn btn-outline-danger btn-sm">SignUp</button></td>
+                                        <?php endif;?>  
+
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </div>
+                    </div>
+
+
+                    <span>&nbsp;&nbsp;<i class="fas fa-home ml-4 "></i><h6 class="ml-4">Home</h6></span>
+
+                    <span>&nbsp;&nbsp;<i class="fas fa-shopping-cart ml-4"></i><h6 class="ml-4">Cart</h6></span>
+
+                    </h6>
+                </div>
+            </nav>
+    </header>
+     <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 mt-4">
+                    <h4><b>INFORMATION</b></h4>
+                    <ul class="w3_footer_grid_list mt-3 footcolor ">
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="events.html">Events</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="about.html">About Us</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="products.html">Best Deals</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="services.html">Services</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="short-codes.html">Short Codes</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 mt-4">
+                    <h4><b>POLICY INFO</b></h4>
+                    <ul class="w3_footer_grid_list mt-3">
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="faqs.html">FAQ</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="privacy.html">privacy policy</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="privacy.html">terms of use</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 mt-4">
+                    <h4><b>WHATS IN STORES</b></h4>
+                    <ul class="w3_footer_grid_list mt-3">
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="pet.html">Pet Food</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="frozen.html">Frozen Snacks</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="kitchen.html">Kitchen</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="products.html">Branded Foods</a></li>
+                        <li><i class="fas fa-chevron-right m-3"></i><a class="footcol" href="household.html">Households</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 mt-4">
+                    <h4><b>TWITTER POSTS</b></h4>
+                    <ul class="w3_footer_grid_list mt-3 ">
+                        <li class="mb-3 footcol"><i class="fab fa-twitter mr-3 "></i>01 day ago <br><span>Non numquam <a href="#">http://sd.ds/13jklf#</a>
+                            eius modi tempora incidunt ut labore et
+                            <a href="#">http://sd.ds/1389kjklf#</a>quo nulla.</span></li>
+
+                        <li class="footcol"><i class="fab fa-twitter mr-3 "></i>02 day ago <br><span>Con numquam <a href="#">http://fd.uf/56hfg#</a>
+                            eius modi tempora incidunt ut labore et
+                            <a href="#">http://fd.uf/56hfg#</a>quo nulla.</span></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-4">
+                    <h4>100% secure payments</h4>
+                    <img src="<?php echo base_url()?>img/card.png" alt=" " class="img-responsive" /> </div>
+                <div class="col-lg-8">
+                    <h5>Connect with us</h5>
+
+                    <a href="https://www.facebook.com/" class="facebook m-2"><i class="fab fa-facebook"></i></a>
+                    <a href="https://twitter.com/login?lang=en" class="twitter  m-2"><i class="fab fa-twitter"></i></a>
+                    <a href="https://myaccount.google.com/intro" class="google  m-2"><i class="fab fa-google"></i></a>
+                    <a href="https://www.instagram.com/accounts/login/" class="instagram  m-2"><i class="fab fa-instagram"></i></a>
+
+                </div>
+            </div>
+            <hr>
+
+            <div class="row d-flex justify-content-center">
+                <p>© 2020 Azam Deal. All rights reserved.</p>
+            </div>
+
+
+        </div>
+
+    </footer>
+    <div class="checkout-left">	
+				<div class="col-md-4 checkout-left-basket">
+					<h4>Continue to basket</h4>
+					<ul>
+						<?php 
+						$total=0;
+						foreach($_SESSION['cart_item'] as $row)
+						{?>
+						<li><?=$row['name']?> <i>-</i> <span>Rs.<?=$row['price']?></span></li>
+						<?php 
+						$total+=$row['price'];
+						}
+						?>
+						<li>Total Service Charges <i>-</i> <span>Rs.50.00</span></li>
+						<li>Total <i>-</i> <span><?=$total+50?></span></li>
+					</ul>
+					<div class="checkout-right-basket">
+				        	<a href="payment.html">Make a Payment <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
+			      	</div>
+				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php
+session_start();
+if(!(isset($_COOKIE['admin_id']) or isset($_COOKIE['vendort_id'])))
+  die("Direct Access not permitted!!");
+include("assets/db/db.php");
+error_reporting(0);
+if(isset($_GET['action']) && $_GET['action']!="" && $_GET['action']=='delete')
+{
+$product_id=$_GET['product_id'];
+///////picture delete/////////
+$result=mysqli_query($con,"select product_image from products where product_id='$product_id'")
+or die("query is incorrect...");
+
+list($picture)=mysqli_fetch_array($result);
+$path="../product_images/$picture";
+
+if(file_exists($path)==true)
+{
+  unlink($path);
+}
+else
+{}
+/*this is delet query*/
+mysqli_query($con,"delete from products where product_id='$product_id'")or die("query is incorrect...");
+}
+
+///pagination
+
+$page=$_GET['page'];
+
+if($page=="" || $page=="1")
+{
+$page1=0;	
+}
+else
+{
+$page1=($page*10)-10;	
+} 
+include "sidenav.php";
+include "topheader.php";
+?>
+      <!-- End Navbar -->
+      <div class="content">
+        <div class="container-fluid">
+        
+        
+         <div class="col-md-14">
+            <div class="card ">
+              <div class="card-header card-header-primary">
+                <h4 class="card-title"> Products List</h4>
+                
+              </div>
+              <div class="card-body">
+                <div class="table-responsive ps">
+                  <table class="table tablesorter " id="page1">
+                    <thead class=" text-primary">
+                      <tr><th>Image</th><th>Name</th><th>Price</th><th>
+	<a class=" btn btn-primary" href="addproduct.php">Add New</a></th></tr></thead>
+                    <tbody>
+                      <?php 
+                        if(isset($_COOKIE['vendor_id']))
+                          $result=mysqli_query($con,"select product_id,product_image, product_title,product_price from products where vendor_id=".$_COOKIE['vendor_id']." Limit $page1,10")or die ("query 1 incorrect.....");
+                        else
+                          $result=mysqli_query($con,"select product_id,product_image, product_title,product_price from products Limit $page1,10")or die ("query 2  incorrect.....");
+
+                        while(list($product_id,$image,$product_name,$price)=mysqli_fetch_array($result))
+                        {
+                        echo "<tr><td><img src='../product images/$image' style='width:50px; height:50px; border:groove #000'></td><td>$product_name</td>
+                        <td>$price</td>
+                        <td>
+                        <a href='editProduct.php?product_id=$product_id' type='button' rel='tooltip' title='' class='btn btn-info btn-link btn-sm' data-original-title='Edit Product'>
+                        <i class='material-icons'>edit</i>
+                      <div class='ripple-container'></div></a>
+                <a href='productlist.php?product_id=$product_id&action=delete' type='button' rel='tooltip' title='' class='btn btn-danger btn-link btn-sm' data-original-title='Delete Product'>
+                        <i class='material-icons'>close</i>
+                      <div class='ripple-container'></div></a>
+                        </td></tr>";
+                        }
+
+                        ?>
+                    </tbody>
+                  </table>
+                <div class="ps__rail-x" style="left: 0px; bottom: 0px;"><div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps__rail-y" style="top: 0px; right: 0px;"><div class="ps__thumb-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div>
+              </div>
+            </div>
+            <nav aria-label="Page navigation example">
+              <ul class="pagination justify-content-center ">
+                <li class="page-item">
+                  <a class="page-link" href="productlist.php?page=<?php echo $page>1?$page-1:1;?>" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                </li>
+                 <?php 
+//counting paging
+                if(isset($_COOKIE['vendor_id']))
+                  $paging=mysqli_query($con,"select product_id,product_image, product_title,product_price from products where vendor_id=".$_COOKIE['vendor_id']);
+                else
+                  $paging=mysqli_query($con,"select product_id,product_image, product_title,product_price from products");
+                        
+                $count=mysqli_num_rows($paging);
+
+                $a=$count/10;
+                $a=ceil($a);
+                
+                for($b=1; $b<=$a;$b++)
+                {
+                ?> 
+                <li class="page-item"><a class="page-link" href="productlist.php?page=<?php echo $b;?>"><font size=4 ><?php echo $b." ";?></font></a></li>
+                <?php	
+                  }
+                  ?>
+                <li class="page-item">
+                  <a class="page-link" href="productlist.php?page=<?php echo $page<$a?$page+1:$a;?>" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            
+           
+
+          </div>
+          
+          
+        </div>
+      </div>
+      <?php
+include "footer.php";
+?>
